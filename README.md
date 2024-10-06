@@ -44,7 +44,7 @@ http://localhost:8000/Api/Active
 Preencha o body com o Json completando o respectivo Stone Code do cliente:
 ```json
 {
-    "stoneCode": "scl13nt3",
+    "codePartner": "3x3mpl010101",
     "partnerName": "NomeDoPartner",
     "connectionName": "COM3"
 }
